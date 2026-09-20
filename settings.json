@@ -1,0 +1,23 @@
+{
+  "default": "standard",
+  "levels": {
+    "gentle": {
+      "length": 3,
+      "symbols": 6,
+      "attempts": 10,
+      "repeats": false
+    },
+    "standard": {
+      "length": 4,
+      "symbols": 6,
+      "attempts": 10,
+      "repeats": true
+    },
+    "hard": {
+      "length": 5,
+      "symbols": 8,
+      "attempts": 12,
+      "repeats": true
+    }
+  }
+}
